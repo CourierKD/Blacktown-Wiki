@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="320px" viewBox="0 0 552 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="12.7653061" height="12.7653061" x="-2.06611913" y="-2.06611913" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.265943878,0.265943878)"></use>
+        </pattern>
+        <image id="image-2" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAV9JREFUaAXt2O0NgjAQBmBrt4DoDiawEHEQB1F3MK7BHKxR+2oKQfnseXCX0B/SEr3zucZIz+R57nZ+OOfuZVmeMcWaOEyWZVdjTBHicMW3aZpekMQnOyVJcqiq6hmSUq6Ig3iIyxnf+iRH7iSc8e1SleJCWGyvZsQboBlRA7QiWgCNiB+ANkQnQBOiF6AFMQjQgBgFSEdMAkhGTAZIRcwCSETMBkhDRAEkIaIBUhAkgAQEGbA2AgCDL0Edax2KrO8e3JCcCsDn10CgK/HQ2I0IZ+w9KucXBfo4mGJNHA79JfSBQhzO+FtfKFS567rEb2LrC3VV/vse507Uf2ScSQDiil8DOJOEHeFAtAAaET8AbYhOgCZEL0ALYhCgATEKkI6YBJCMmAyQipgFkIiYDZCGiAJIQkQDpCBIAAkIMmBtBAD/OMizPe+jQBh9j+JbX+hTn+a1r1K437wrfvYd/wV+UgblD/bGFgAAAABJRU5ErkJggg=="></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-18" transform="translate(276.000000, 160.000000) rotate(-150.000000) translate(-276.000000, -160.000000) translate(182.000000, 66.000000)">
+                <g id="Group-17">
+                    <path d="M94,188 C145.914766,188 188,145.914766 188,94 C188,42.0852335 145.914766,0 94,0 C42.0852335,0 0,42.0852335 0,94 C0,145.914766 42.0852335,188 94,188 Z M94,177.300813 C47.9942313,177.300813 10.699187,140.005769 10.699187,94 C10.699187,47.9942313 47.9942313,10.699187 94,10.699187 C140.005769,10.699187 177.300813,47.9942313 177.300813,94 C177.300813,140.005769 140.005769,177.300813 94,177.300813 Z" id="Oval-5" fill="#000000" fill-rule="nonzero"></path>
+                    <circle id="Oval-6" fill="#4A4A4A" cx="94.3821138" cy="94.3821138" r="87.3130081"></circle>
+                    <g id="Group-16-Copy" transform="translate(69.544715, 39.357724)">
+                        <g id="Group-15" transform="translate(0.683488, 0.000000)">
+                            <polygon id="Triangle" fill="#9B9B9B" points="24.2638139 0 48.5276277 54.6422764 0 54.6422764"></polygon>
+                            <polygon id="Triangle-Copy-8" fill="#BFBFBF" style="mix-blend-mode: darken;" points="24.2638139 0 48.5276277 54.6422764 24.2638139 54.6422764"></polygon>
+                        </g>
+                        <g id="Group-14" transform="translate(24.841744, 81.784553) scale(1, -1) translate(-24.841744, -81.784553) translate(0.341744, 54.284553)" fill="#9B9B9B">
+                            <polygon id="Triangle-Copy-9" points="24.6055577 0 48.8693716 54.6422764 0.341743857 54.6422764"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-16-Copy-3" transform="translate(94.640102, 94.412839) rotate(-45.000000) translate(-94.640102, -94.412839) translate(87.140102, 52.912839)">
+                        <g id="Group-15" transform="translate(0.187273, 0.000000)">
+                            <polygon id="Triangle" fill="#9B9B9B" points="6.64818241 -3.12638804e-13 13.2963648 41.2682927 -3.51718654e-13 41.2682927"></polygon>
+                            <polygon id="Triangle-Copy-8" fill="#BFBFBF" style="mix-blend-mode: darken;" points="6.64818241 3.90798505e-13 13.2963648 41.2682927 6.64818241 41.2682927"></polygon>
+                        </g>
+                        <g id="Group-14" transform="translate(7.093636, 61.536585) scale(1, -1) translate(-7.093636, -61.536585) translate(0.093636, 40.536585)" fill="#9B9B9B">
+                            <polygon id="Triangle-Copy-9" points="6.74181878 -1.42108547e-13 13.3900012 41.2682927 0.0936363719 41.2682927"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-16-Copy-2" transform="translate(94.024390, 94.162602) rotate(-270.000000) translate(-94.024390, -94.162602) translate(69.024390, 39.162602)">
+                        <g id="Group-15" transform="translate(0.683488, -0.000000)">
+                            <polygon id="Triangle" fill="#9B9B9B" points="24.2638139 -3.83693077e-13 48.5276277 54.6422764 0 54.6422764"></polygon>
+                            <polygon id="Triangle-Copy-8" fill="#BFBFBF" style="mix-blend-mode: darken;" points="24.2638139 1.84741111e-13 48.5276277 54.6422764 24.2638139 54.6422764"></polygon>
+                        </g>
+                        <g id="Group-14" transform="translate(24.841744, 81.784553) scale(1, -1) translate(-24.841744, -81.784553) translate(0.341744, 54.284553)" fill="#9B9B9B">
+                            <polygon id="Triangle-Copy-9" points="24.6055577 1.13686838e-13 48.8693716 54.6422764 0.341743857 54.6422764"></polygon>
+                        </g>
+                    </g>
+                    <circle id="Oval-6-Copy" fill="#4A4A4A" cx="94.5731707" cy="94.5731707" r="28.4674797"></circle>
+                    <g id="Group-16" transform="translate(94.222676, 94.919630) rotate(-315.000000) translate(-94.222676, -94.919630) translate(85.222676, 39.919630)">
+                        <g id="Group-15" transform="translate(0.231255, -0.000000)">
+                            <polygon id="Triangle" fill="#FFFFFF" points="8.20956108 -5.82645043e-13 16.4191222 54.6422764 3.16191517e-13 54.6422764"></polygon>
+                            <polygon id="Triangle-Copy-8" fill="#BFBFBF" style="mix-blend-mode: darken;" points="8.20956108 5.54223334e-13 16.4191222 54.6422764 8.20956108 54.6422764"></polygon>
+                        </g>
+                        <g id="Group-14" transform="translate(8.615628, 81.784553) scale(1, -1) translate(-8.615628, -81.784553) translate(0.115628, 54.284553)">
+                            <polygon id="Triangle-Copy-9" fill="#D0011B" points="8.32518871 -1.13686838e-13 16.5347498 54.6422764 0.115627621 54.6422764"></polygon>
+                            <polygon id="Triangle-Copy-10" fill="#707070" style="mix-blend-mode: darken;" points="8.32518871 -1.5063506e-12 16.5347498 54.6422764 8.32518871 54.6422764"></polygon>
+                        </g>
+                    </g>
+                    <path d="M177.682927,178.447154 C177.682927,132.551999 177.682927,52.0048153 177.682927,11.0813008 C131.466123,11.0813008 94,48.5474233 94,94.7642276 C94,140.981032 131.466123,178.447154 177.682927,178.447154 Z" id="Oval-6" fill="#4A4A4A" style="mix-blend-mode: overlay;" transform="translate(135.841463, 94.764228) rotate(-180.000000) translate(-135.841463, -94.764228) "></path>
+                </g>
+                <path d="M94,177.300813 C47.9942313,177.300813 10.699187,140.005769 10.699187,94 C10.699187,47.9942313 47.9942313,10.699187 94,10.699187 C140.005769,10.699187 177.300813,47.9942313 177.300813,94 C177.300813,140.005769 140.005769,177.300813 94,177.300813 Z M94,167.052746 C134.345917,167.052746 167.052746,134.345917 167.052746,94 C167.052746,53.6540826 134.345917,20.9472543 94,20.9472543 C53.6540826,20.9472543 20.9472543,53.6540826 20.9472543,94 C20.9472543,134.345917 53.6540826,167.052746 94,167.052746 Z" id="Combined-Shape" fill="url(#pattern-1)" style="mix-blend-mode: difference;"></path>
+            </g>
+        </g>
+    </g>
+</svg>

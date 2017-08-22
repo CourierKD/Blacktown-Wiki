@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="320px" viewBox="0 0 552 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.1%" y="-0.4%" width="102.7%" height="101.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-2.1%" y="-0.4%" width="102.7%" height="101.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-2.1%" y="-0.4%" width="102.7%" height="101.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-2.1%" y="-0.4%" width="102.7%" height="101.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-2.1%" y="-0.4%" width="102.7%" height="101.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-2.1%" y="-0.4%" width="102.7%" height="101.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group" transform="translate(145.000000, 34.000000)">
+                <g id="Group-2" filter="url(#filter-1)" transform="translate(0.000000, 109.000000)">
+                    <rect id="Rectangle-6" fill="#9B9B9B" x="0" y="0" width="72.9758338" height="125.546969"></rect>
+                    <polygon id="Rectangle-6-Copy-2" fill="#4A4A4A" points="0 88.9291029 72.9758338 64.8659339 72.9758338 125.546969 0 125.546969"></polygon>
+                </g>
+                <g id="Group-2-Copy" filter="url(#filter-2)" transform="translate(38.000000, 86.000000)">
+                    <rect id="Rectangle-6" fill="#9B9B9B" x="0" y="0" width="72.9758338" height="125.546969"></rect>
+                    <polygon id="Rectangle-6-Copy-2" fill="#4A4A4A" points="0 88.9291029 72.9758338 64.8659339 72.9758338 125.546969 0 125.546969"></polygon>
+                </g>
+                <g id="Group-2-Copy-2" filter="url(#filter-3)" transform="translate(77.000000, 63.000000)">
+                    <rect id="Rectangle-6" fill="#9B9B9B" x="0" y="0" width="72.9758338" height="125.546969"></rect>
+                    <polygon id="Rectangle-6-Copy-2" fill="#4A4A4A" points="0 88.9291029 72.9758338 64.8659339 72.9758338 125.546969 0 125.546969"></polygon>
+                </g>
+                <g id="Group-2-Copy-3" filter="url(#filter-4)" transform="translate(116.000000, 41.000000)">
+                    <rect id="Rectangle-6" fill="#9B9B9B" x="0" y="0" width="72.9758338" height="125.546969"></rect>
+                    <polygon id="Rectangle-6-Copy-2" fill="#4A4A4A" points="0 88.9291029 72.9758338 64.8659339 72.9758338 125.546969 0 125.546969"></polygon>
+                </g>
+                <g id="Group-2-Copy-4" filter="url(#filter-5)" transform="translate(155.000000, 18.000000)">
+                    <rect id="Rectangle-6" fill="#9B9B9B" x="0" y="0" width="72.9758338" height="125.546969"></rect>
+                    <polygon id="Rectangle-6-Copy-2" fill="#4A4A4A" points="0 88.9291029 72.9758338 64.8659339 72.9758338 125.546969 0 125.546969"></polygon>
+                </g>
+                <g id="Group-2-Copy-6" filter="url(#filter-6)" transform="translate(189.000000, 0.000000)">
+                    <rect id="Rectangle-6" fill="#9B9B9B" x="0" y="0" width="72.9758338" height="125.546969"></rect>
+                    <polygon id="Rectangle-6-Copy-2" fill="#4A4A4A" points="0 88.9291029 72.9758338 64.8659339 72.9758338 125.546969 0 125.546969"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

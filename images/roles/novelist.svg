@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="320px" viewBox="0 0 552 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.96855898e-13,5.1159077e-13 L18.4818218,5.1159077e-13 C27.3228597,5.1159077e-13 32.4995406,6.88576062 31.1212911,15.5904885 C31.1212911,15.5904885 26.2780482,20.8192633 34.489937,41.6385267 C17.2449685,41.6385267 5.96855898e-13,41.6385267 5.96855898e-13,41.6385267 L5.96855898e-13,5.1159077e-13 Z M2.55795385e-13,41.6385267 L34.489937,41.6385267 C8.30064481,54.9606517 2.55795385e-13,87.1324725 2.55795385e-13,87.1324725 L2.55795385e-13,41.6385267 Z" id="path-1"></path>
+        <path d="M0.509969211,15.0010574 C0.228320993,6.71620215 6.70751972,-4.54747351e-13 15.0081207,-4.54747351e-13 L33.04972,-4.54747351e-13 C41.3384762,-4.54747351e-13 47.8298126,6.70758785 47.5478715,15.0010574 L40.2625061,229.304554 L7.79533467,229.304554 L0.509969211,15.0010574 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-9" transform="translate(276.351320, 159.846320) rotate(48.000000) translate(-276.351320, -159.846320) translate(252.351320, -0.653680)">
+                <g id="Rectangle-6-Copy" transform="translate(6.928157, 232.828839)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#9B9B9B" xlink:href="#path-1"></use>
+                    <rect fill="#000000" mask="url(#mask-2)" x="16.7377636" y="33.6878455" width="1.32337027" height="23.8094547"></rect>
+                    <circle id="Oval-4" fill="#000000" mask="url(#mask-2)" cx="17.1403166" cy="34.5590887" r="2.34857377"></circle>
+                    <rect id="Rectangle-6-Copy-2" fill="#4A4A4A" mask="url(#mask-2)" x="-3.04322974" y="0" width="37.5331668" height="18.4903212"></rect>
+                    <rect id="Rectangle-6" fill="#000000" mask="url(#mask-2)" x="2.27373675e-13" y="28.8752961" width="5.32565204" height="29.6351723"></rect>
+                    <path d="M0.369453045,0.262927329 C9.72261589,28.7049243 34.931052,41.3931239 34.931052,41.3931239 L-6.8502481,96.490754 C-6.8502481,96.490754 0.0140019132,15.8992242 0.369453045,0.262927329 Z" id="Path-5" fill="#F2F2F2" style="mix-blend-mode: overlay;" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Path-4">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#D0011B" xlink:href="#path-3"></use>
+                    <path d="M46.1929041,0.426627395 C46.1929041,0.426627395 37.6296491,124.022637 4.94400716,231.009538 C34.6687625,231.009538 93.1511945,231.009538 93.1511945,231.009538 L46.1929041,0.426627395 Z" fill="#000000" style="mix-blend-mode: overlay;" mask="url(#mask-4)"></path>
+                </g>
+                <rect id="Rectangle-7" fill="#000000" x="6.67112237" y="225.637033" width="35.004006" height="7.4251164" rx="3.7125582"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

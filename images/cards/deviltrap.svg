@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="320px" viewBox="0 0 552 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Illustration" transform="translate(121.000000, 0.000000)">
+                <path d="M259.986264,193.212082 C259.986264,124.186631 204.028007,68.2304472 135,68.2304472 C65.9719926,68.2304472 10.0137363,124.186631 10.0137363,193.212082" id="Oval-5" stroke="#000000" stroke-width="6" fill="#000000" transform="translate(135.000000, 130.721264) rotate(-42.000000) translate(-135.000000, -130.721264) "></path>
+                <path d="M169.371516,121.554615 C169.371516,121.554615 182.934629,232.35636 178.920053,241.804406 C174.905478,251.252451 132.334005,242.695636 132.334005,242.695636 L139.787071,171.57994" id="Path-19" stroke="#000000" stroke-width="4" fill="#FFFFFF"></path>
+                <path d="M145.874981,172.477002 C145.874981,172.477002 80.6926182,207.168689 91.2463399,123.001334 C103.370254,123.001334 113.727415,125.005534 113.727415,125.005534 C113.727415,125.005534 106.090536,158.017534 137.828263,158.017534" id="Path-16" stroke="#000000" stroke-width="4" fill="#FFFFFF" transform="translate(117.982664, 151.280793) rotate(-10.000000) translate(-117.982664, -151.280793) "></path>
+                <path d="M161.415342,166.566874 C161.415342,166.566874 88.4325161,205.410163 100.249216,111.170385 C113.824016,111.170385 125.420633,113.414429 125.420633,113.414429 C125.420633,113.414429 114.063359,150.243086 149.599184,150.243086 C155.475014,145.902092 159.216569,140.558463 159.216569,140.558463" id="Path-16" stroke="#000000" stroke-width="4" fill="#FFFFFF"></path>
+                <ellipse id="Oval" stroke="#000000" stroke-width="6" fill="#FFFFFF" cx="164.229609" cy="116.3625" rx="24.478022" ry="24.4771154"></ellipse>
+                <ellipse id="Oval-6" fill="#FFFFFF" cx="103.405433" cy="81.5011538" rx="20.7692308" ry="20.7684615"></ellipse>
+                <g id="Devil-Trap" transform="translate(89.312027, 55.540577)" stroke="#000000" stroke-width="4" stroke-linecap="square">
+                    <path d="M0.370879121,27.8149038 L36.717033,26.3314423" id="Line"></path>
+                    <path d="M16.6895604,0.370865385 L14.4642857,42.6495192" id="Line"></path>
+                    <path d="M10.7554945,3.33778846 L27.8159341,36.7156731" id="Line"></path>
+                    <path d="M19.6565934,1.85432692 L4.07967033,37.4574038" id="Line"></path>
+                    <path d="M4.07967033,18.9141346 L21.8818681,40.4243269" id="Line"></path>
+                    <path d="M29.2994505,19.6558654 L18.9148352,38.9408654" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="320px" viewBox="0 0 552 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-10" transform="translate(168.000000, 51.000000)">
+                <g id="Group">
+                    <circle id="Oval-3" fill="#9B9B9B" cx="29.3415787" cy="95.7029062" r="29.3415787"></circle>
+                    <circle id="Oval-3-Copy" fill="#9B9B9B" cx="106.671721" cy="29.3415787" r="29.3415787"></circle>
+                    <circle id="Oval-3-Copy-2" fill="#9B9B9B" cx="188.389388" cy="95.7029062" r="29.3415787"></circle>
+                    <circle id="Oval-3-Copy-3" fill="#9B9B9B" cx="58.9573777" cy="188.389388" r="29.3415787"></circle>
+                    <circle id="Oval-3-Copy-4" fill="#9B9B9B" cx="159.32203" cy="188.389388" r="29.3415787"></circle>
+                    <path d="M154.761805,57.0668233 L158.596128,57.0668233 L151.771033,38.6499016 L144.945939,57.0668233 L148.780261,57.0668233 L148.780261,77.3254372 L154.761805,77.3254372 L154.761805,57.0668233 Z" id="Combined-Shape" fill="#4A4A4A" transform="translate(151.771033, 57.987669) rotate(-225.000000) translate(-151.771033, -57.987669) "></path>
+                    <path d="M178.901399,143.513149 L182.735721,143.513149 L175.910627,125.096227 L169.085532,143.513149 L172.919855,143.513149 L172.919855,163.771763 L178.901399,163.771763 L178.901399,143.513149 Z" id="Combined-Shape-Copy" fill="#4A4A4A" transform="translate(175.910627, 144.433995) rotate(-158.000000) translate(-175.910627, -144.433995) "></path>
+                    <path d="M111.724377,186.889687 L115.5587,186.889687 L108.733606,168.472765 L101.908511,186.889687 L105.742834,186.889687 L105.742834,207.148301 L111.724377,207.148301 L111.724377,186.889687 Z" id="Combined-Shape-Copy-2" fill="#4A4A4A" transform="translate(108.733606, 187.810533) rotate(-90.000000) translate(-108.733606, -187.810533) "></path>
+                    <path d="M45.5943654,142.948223 L49.4286881,142.948223 L42.6035936,124.531301 L35.7784991,142.948223 L39.6128218,142.948223 L39.6128218,163.206837 L45.5943654,163.206837 L45.5943654,142.948223 Z" id="Combined-Shape-Copy-3" fill="#4A4A4A" transform="translate(42.603594, 143.869069) rotate(-16.000000) translate(-42.603594, -143.869069) "></path>
+                    <path d="M68.1081706,57.0668233 L71.9424933,57.0668233 L65.1173988,38.6499016 L58.2923043,57.0668233 L62.1266271,57.0668233 L62.1266271,77.3254372 L68.1081706,77.3254372 L68.1081706,57.0668233 Z" id="Combined-Shape-Copy-4" fill="#4A4A4A" transform="translate(65.117399, 57.987669) rotate(45.000000) translate(-65.117399, -57.987669) "></path>
+                </g>
+                <g id="Group-4" transform="translate(76.359574, 96.546587)">
+                    <g id="Group-2">
+                        <rect id="Rectangle-6" fill="#9B9B9B" x="0" y="0" width="24.1720171" height="41.6814949"></rect>
+                        <polygon id="Rectangle-6-Copy-2" fill="#4A4A4A" points="0 29.5243923 24.1720171 21.5354391 24.1720171 41.6814949 0 41.6814949"></polygon>
+                    </g>
+                    <g id="Group-3" transform="translate(41.092429, 0.000000)">
+                        <rect id="Rectangle-6-Copy" fill="#9B9B9B" x="0" y="0" width="24.1720171" height="41.6814949"></rect>
+                        <polygon id="Rectangle-6-Copy-3" fill="#D0011B" points="0 29.5243923 24.1720171 21.5354391 24.1720171 41.6814949 0 41.6814949"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
